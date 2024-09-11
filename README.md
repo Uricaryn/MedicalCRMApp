@@ -1,4 +1,4 @@
-# Clinic Connect - Medical CRM Application
+no# Clinic Connect - Medical CRM Application
 
 Clinic Connect is a comprehensive Medical Customer Relationship Management (CRM) system designed to streamline operations within medical facilities. The application manages patient information, procedures, appointments, payments, and more, integrating various functionalities to ensure efficient healthcare management.
 
@@ -123,6 +123,6 @@ Email: [onuranatca@hotmail.com.tr](mailto:onuranatca@hotmail.com.tr)
 
 ![api3](https://github.com/user-attachments/assets/662f11a1-c54f-43d7-86f7-777cc1bf5d07) ![cc1](https://github.com/user-attachments/assets/42f8081f-dd7e-4cd3-8b89-c5fe6abc36c3)
 
-![cc2](https://github.com/user-attachments/assets/3f20daf3-32f2-49e3-9c95-3c320dfb384b) ![cc2](https://github.com/user-attachments/assets/3f20daf3-32f2-49e3-9c95-3c320dfb384b)
+![cc2](https://github.com/user-attachments/assets/3f20daf3-32f2-49e3-9c95-3c320dfb384b)
   
 
