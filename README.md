@@ -101,11 +101,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/new-feature`).
 5. Open a pull request.
 
-## Known Issues
-
-- **Login Issues**: Some login problems may occur due to misconfigured identity settings. Ensure that user credentials are correctly set.
-- **CORS Errors**: CORS settings must be correctly configured on the API for cross-origin requests.
-
 ## Roadmap
 
 - Complete the implementation of the payment module.
