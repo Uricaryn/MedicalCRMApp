@@ -1,4 +1,4 @@
-no# Clinic Connect - Medical CRM Application
+# Clinic Connect - Medical CRM Application
 
 Clinic Connect is a comprehensive Medical Customer Relationship Management (CRM) system designed to streamline operations within medical facilities. The application manages patient information, procedures, appointments, payments, and more, integrating various functionalities to ensure efficient healthcare management.
 
